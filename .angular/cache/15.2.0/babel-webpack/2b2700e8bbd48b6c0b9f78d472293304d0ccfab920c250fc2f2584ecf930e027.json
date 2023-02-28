@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class AppModule {}","map":{"version":3,"mappings":"AACA,OAAM,MAAOA,SAAS","names":["AppModule"],"sourceRoot":"","sources":["C:\\Users\\assad\\source\\repos\\angular-737ocu-qykqh2\\src\\app\\app.module.ts"],"sourcesContent":["\r\nexport class AppModule { }\r\n"]},"metadata":{},"sourceType":"module","externalDependencies":[]}
